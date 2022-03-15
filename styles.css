@@ -1,0 +1,36 @@
+.card-img-top{
+    width:100px;
+    height:100px;
+}
+
+.profile-pic{
+    height:286px;
+    width:286px;
+}
+
+.card-data{
+    text-align:center;
+}
+
+.details{
+    width:600px;
+    height:400px;
+}
+
+ .info{
+    position: relative;
+    left: 200px;
+    bottom: 30px;
+    color:grey;
+
+} 
+
+.user-details{
+    margin:20px;margin-left:50px;border-bottom:solid 1px;padding-bottom:5px;
+}
+
+.user-adress{
+    margin:20px;margin-left:50px;padding-bottom:5px;
+}
+
+body{background-color:aliceblue}
